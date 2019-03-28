@@ -69,7 +69,12 @@ input, select, textarea {
 	-moz-appearance: none;
 	-webkit-appearance: none;
 	-ms-appearance: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
 	appearance: none;
+	width : 150px;
+	margin: 0;
 }
 
 /* Basic */
