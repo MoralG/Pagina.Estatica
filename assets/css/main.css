@@ -2490,8 +2490,8 @@ input, select, textarea {
 			left: 0;
 			top: 0;
 			background-image: url("images/overlay.png");
-			width: 100%;
-			height: 100%;
+			width: 60%;
+			height: 60%;
 			z-index: 1;
 		}
 
